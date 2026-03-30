@@ -1,0 +1,20 @@
+{
+  "name": "KerryHuang-plugins",
+  "owner": {
+    "name": "KerryHuang"
+  },
+  "metadata": {
+    "description": "KerryHuang Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "sdlc",
+      "source": "./plugins/sdlc",
+      "description": "SDLC upstream phase tools - requirements, system analysis, specification, and verification",
+      "version": "1.0.0",
+      "author": {
+        "name": "KerryHuang"
+      }
+    }
+  ]
+}

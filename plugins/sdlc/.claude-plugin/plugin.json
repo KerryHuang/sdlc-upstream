@@ -1,0 +1,9 @@
+{
+  "name": "sdlc",
+  "description": "Software development lifecycle upstream phase tools - requirements, system analysis, specification, and verification",
+  "version": "1.2.1",
+  "author": {
+    "name": "KerryHuang"
+  },
+  "license": "MIT"
+}
